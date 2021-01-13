@@ -1,0 +1,37 @@
+
+h2{
+    color:red;
+    font-size: 0.45in;
+}
+
+.menu{
+    background-color: yellow;
+    border: solid;
+    display:flex;
+    font-family: sans-serif;
+    padding:15px;
+    
+    font-weight: 400;
+    justify-content:space-around;
+}
+
+.para{
+    background-color: yellow;
+    border: solid;
+    display:flex;
+    font-family: sans-serif;
+    padding:15px;
+    justify-content:space-around;
+}
+
+.paragraph{
+    background-color: yellow;
+    border: solid;
+    display:flex;
+    justify-content:space-between;
+    font-family:unset;
+    padding:15px;
+    font-weight: 400;
+    font-size:0.2in;
+   
+}
